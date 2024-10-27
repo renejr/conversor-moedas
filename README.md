@@ -108,3 +108,5 @@ phpcbf --standard=PSR12 src/
 Observações
 A API suporta as seguintes moedas: USD, BRL e EUR.
 As taxas de câmbio são fornecidas pelo usuário e podem não refletir as taxas atuais do mercado.
+
+Para contato: renebmjr@gmail.com
